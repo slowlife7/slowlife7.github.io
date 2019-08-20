@@ -2,7 +2,7 @@
 layout: post
 title: 기본적인 Git 사용법 (1)
 description: Git 사용법을 알아보자.
-tags: [Git, Learn] # add tag
+categories: git
 ---
 
 # Git ?
