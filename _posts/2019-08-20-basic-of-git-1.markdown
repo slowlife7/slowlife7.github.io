@@ -16,7 +16,7 @@ Git은 파일을 스냅샷 형태로 저장하며, 아래와 같이 3 가지 단
 
 ![Git Status]({{site.baseurl}}/images/gitstatus.jpg)
 
-
+/images/github.png
 - **Working Directory**  
 CheckOut 한 특정 버전의 프로젝트 디렉토리. 
 
