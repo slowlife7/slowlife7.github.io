@@ -14,7 +14,7 @@ SVN 같은 중앙 서버로 관리하는 버전 시스템과 다르게 Local Rep
 ---------------------------------------
 Git은 파일을 스냅샷 형태로 저장하며, 아래와 같이 3 가지 단계가 존재한다.
 
-![Git Status]({{site.baseurl}}/assets/img/gitstatus.jpg)
+![Git Status]({{site.baseurl}}/images/gitstatus.jpg)
 
 
 - **Working Directory**  
