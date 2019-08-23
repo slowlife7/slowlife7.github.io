@@ -2,7 +2,7 @@
 layout: post
 title: Let's Ecrypt 로 IPTIME DDNS HTTPS 적용하기
 description: IPTIME DDNS에 HTTPS을 적용하자.
-categories: git
+categories: letsencrypt ddns
 ---
 
 # DDNS HTTPS 적용하기  
