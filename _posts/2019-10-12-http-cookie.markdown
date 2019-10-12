@@ -38,15 +38,15 @@ Cookie: &lt;cookie-name&gt;=&lt;cookie-value&gt;&#59; &lt;cookie-name&gt; =&lt;c
 # EXAMPLE 
 ---------------------------------------  
 ### 로그인 요청  
-![cookie1]({{site.baseurl}}/images/cookie1.jpg)  
-![request1]({{site.baseurl}}/images/request1.jpg) 
-   
+![cookie1]({{site.baseurl}}/images/cookie1.JPG)  
+![request1]({{site.baseurl}}/images/request1.JPG) 
+
 ### 응답
-![response]({{site.baseurl}}/images/response.jpg)  
+![response]({{site.baseurl}}/images/response.JPG)  
   
 ### 처음과 동일한 URL로 요청  
-![request2]({{site.baseurl}}/images/request2.jpg)  
-![cookie2]({{site.baseurl}}/images/cookie2.jpg)  
+![request2]({{site.baseurl}}/images/request2.JPG)  
+![cookie2]({{site.baseurl}}/images/cookie2.JPG)  
   
 # sample html  (index.html)
 ---------------------------------------  
