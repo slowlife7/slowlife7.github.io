@@ -1,6 +1,6 @@
 ---
 layout: post
-title: javascript hoisting, lexical environment, execute context, this binding
+title: javascript 함수 선언식, 표현식, hoisting
 description: javascript 기본기 다지기
 categories: javascript
 ---
