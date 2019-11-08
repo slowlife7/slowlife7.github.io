@@ -5,17 +5,21 @@ description: javascript를 이용해서 table row를 json형태로 변환하는 
 categories: html css javascript
 ---
 
-# 게시판
----------------------------------------  
-HTML 과 CSS를 이용하여 게시판 형태를 만들어 보았다.
+# javascript를 이용해서 table row를 json형태로 변환하는 샘플.
+
+---
+
+javascript로 table row를 json으로 변경해보았다.
 
 # sample source
----------------------------------------  
+
+---
+
 html, css로 구현되어 있다.
 
 예제 소스는 아래와 같다.
 
-~~~html
+```html
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -232,7 +236,6 @@ html, css로 구현되어 있다.
     </div>
   </body>
   <script>
- 
     document.querySelector("#save").addEventListener("click", function() {
       const checkedBoxes = document.querySelectorAll(
         "input:checked:not(.all):not(.td--checkbox)"
@@ -275,9 +278,7 @@ html, css로 구현되어 있다.
 
     document.querySelector("#add").addEventListener("click", function(target) {
       const tableBody = document.querySelector("table tbody");
-      tableBody.insertAdjacentHTML(
-        "beforeend",
-        '<tr>\
+      tableBody.insertAdjacentHTML("beforeend", '<tr>\
           <td><input type="checkbox" /></td> \
           <td>\
            <input class="td--text__none" type="text" name="_id" value="" />\
@@ -304,8 +305,7 @@ html, css로 구현되어 있다.
               value="false"\
             />\
           </td>\
-        </tr>'
-      );
+        </tr>');
     });
 
     document
@@ -343,5 +343,4 @@ html, css로 구현되어 있다.
     });
   </script>
 </html>
-
-~~~
+```
